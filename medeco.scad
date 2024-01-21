@@ -138,7 +138,7 @@ module biaxial(key_cuts, key_cut_angle, key_cut_spacing)
 // Current pin
 // These are ordered by cuts closest to the bow first.
 //           Key Cuts          Key Cut Angle       Key Cut Spacing
-biaxial([3, 2, 4, 3, 4, 3], [0, 1, 1, 1, 1, 0], [1, -1, -1, 1, -1, 1]);
+biaxial([3, 4, 6, 6, 7, 4], [-1, 0, -1, -1, 1, 1], [1, 1, -1, 1, -1, 1]);
 
 
 
